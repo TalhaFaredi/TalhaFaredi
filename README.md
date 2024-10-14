@@ -24,7 +24,7 @@ Hi, I’m **Talha Fareedi**, a highly motivated AI Engineer with expertise in Ma
 - Tracking API token costs for each query to optimize performance.
 
 ### 2. **3D Umpire Review System**
-- Developed a convolutional neural network (CNN) model using TensorFlow and Keras.
+- Fine Tuned a convolutional neural network (CNN) model using TensorFlow and Keras.
 - Binary classification for 'out' and 'not out' decisions in sports umpiring.
 - Utilized **ImageDataGenerator** for efficient training and validation.
 
@@ -44,7 +44,7 @@ Hi, I’m **Talha Fareedi**, a highly motivated AI Engineer with expertise in Ma
 
 ## Publications
 
-- **Research Paper in AI**: Published a paper on [Topic of Your Paper].
+- **Research Paper in AI**: Published a paper on [Human ExoSkeleton].
   
 ---
 
@@ -52,7 +52,7 @@ Hi, I’m **Talha Fareedi**, a highly motivated AI Engineer with expertise in Ma
 
 Feel free to reach out to discuss AI solutions or collaborations!
 
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
-- **GitHub:** [Your GitHub Profile](https://github.com)
+- **Email:** talhafareedi092@gmail.com
+- **Whattsapp:** 03219264550
+
 
