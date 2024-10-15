@@ -14,21 +14,7 @@ Hi, I’m **Talha Fareedi**, a highly motivated AI Engineer with expertise in Ma
 - **AI Research:** Published research papers in AI, contributing to the advancement of the field.
 - **3D Umpire Review System:** Leveraging TensorFlow and Keras to develop a binary image classification system.
 
----
 
-## Current Projects
-
-### 1. **Question Answering System using GPT-3.5-turbo & RAG**
-- Implemented a system with **FAISS** for document retrieval and **GPT-3.5-turbo** for concise answers.
-- Focused on **cost-efficient** and accurate information retrieval.
-- Tracking API token costs for each query to optimize performance.
-
-### 2. **3D Umpire Review System**
-- Fine Tuned a convolutional neural network (CNN) model using TensorFlow and Keras.
-- Binary classification for 'out' and 'not out' decisions in sports umpiring.
-- Utilized **ImageDataGenerator** for efficient training and validation.
-
----
 
 ## Skills & Tools
 
@@ -42,11 +28,6 @@ Hi, I’m **Talha Fareedi**, a highly motivated AI Engineer with expertise in Ma
 
 ---
 
-## Publications
-
-- **Research Paper in AI**: Published a paper on [Human ExoSkeleton].
-  
----
 
 ## Contact
 
