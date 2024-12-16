@@ -1,7 +1,7 @@
 
-# Talha Fareedi - AI Engineer
+# Muhammad Talha - AI Engineer
 
-Hi, I’m **Talha Fareedi**, a highly motivated AI Engineer with expertise in Machine Learning (ML), Deep Learning (DL), Generative AI, and Retrieval-Augmented Generation (RAG). My work revolves around designing and fine-tuning models to solve complex problems in AI-driven environments.
+Hi, I’m **Muhammad Talha**, a highly motivated AI Engineer with expertise in Machine Learning (ML), Deep Learning (DL), Generative AI, and Retrieval-Augmented Generation (RAG). My work revolves around designing and fine-tuning models to solve complex problems in AI-driven environments.
 
 ---
 
