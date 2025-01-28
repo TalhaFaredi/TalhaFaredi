@@ -22,6 +22,7 @@ Hi, I’m **Muhammad Talha**, a highly motivated AI Engineer with expertise in M
 - **ML/DL Frameworks:** TensorFlow, Keras, Scikit-learn, PyTorch
 - **Generative AI:** GPT, GANs, BERT, RAG
 - **Model Optimization:** Fine-tuning, Hyperparameter Tuning, RAG Pipeline
+- - **Model Optimization:** Agentic System
 - **Database & Retrieval:** FAISS, SQL, MongoDB
 - **Version Control:** Git, GitHub
 - **Other Tools:** Docker, AWS, Google Cloud
