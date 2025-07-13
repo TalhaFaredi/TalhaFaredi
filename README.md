@@ -1,7 +1,7 @@
 # **Muhammad Talha**
 
 **AI Engineer | ML Researcher | Healthcare AI Specialist**
-📍 Islamabad, Pakistan | 📧 [m.talhafareedi@gmail.com](mailto:m.talhafareedi@gmail.com) |
+📍 Islamabad, Pakistan | 📧 [m.talhafareedi@gmail.com](mailto:m.talhafareedi@gmail.com)  or  📧 [talhafareedi092@gmail.com](mailto:talhafareedi092@@gmail.com)  |
 🔗 [LinkedIn](https://www.linkedin.com/in/talha-fareedi/) | [GitHub](https://github.com/TalhaFaredi) | [Kaggle](https://www.kaggle.com/talhafareedi)
 
 ---
