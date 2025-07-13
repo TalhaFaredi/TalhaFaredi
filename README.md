@@ -1,100 +1,135 @@
-# Muhammad Talha  
-**AI Engineer | Machine Learning Researcher | Healthcare AI Innovator**  
+# **Muhammad Talha**
 
-
----
-
-## About Me  
-Passionate AI engineer and researcher with expertise in **machine learning, bioinformatics, and healthcare AI**. Published in IEEE and ICETECC’25, I specialize in:  
-- **Generative AI** (LLMs, GANs, RAG systems)  
-- **Healthcare AI** (prosthetics, diagnostics, BCI)  
-- **Bioinformatics** (biological networks, multi-omics integration)  
+**AI Engineer | ML Researcher | Healthcare AI Specialist**
+📍 Islamabad, Pakistan | 📧 [m.talhafareedi@gmail.com](mailto:m.talhafareedi@gmail.com) | 📞 +92 340 1715375
+🔗 [LinkedIn](https://www.linkedin.com/in/talha-fareedi/) | [GitHub](https://github.com/TalhaFaredi) | [Kaggle](https://www.kaggle.com/talhafareedi)
 
 ---
 
-## Skills  
-### **Technical Expertise**  
-- **Programming**: Python, C++, C#, SQL, PHP  
-- **ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Hugging Face  
-- **Cloud & Deployment**: AWS, Azure, Docker, Kubernetes  
-- **Data & Databases**: MySQL, MongoDB, FAISS, Pandas  
-- **NLP & Vision**: Transformers, CNNs, LLM Fine-Tuning, YOLO  
+## **Profile**
 
-### **Domains**  
-- Healthcare AI | Robotics | Bioinformatics  
-- Computer Vision | NLP | Edge Computing  
+Innovative and driven AI engineer with deep expertise in **machine learning**, **healthcare AI**, **bioinformatics**, and **generative AI**. Experienced in deploying cloud-based solutions using **AWS/Azure**, and building **NLP**, **computer vision**, and **multi-modal models**. Passionate about bridging research and real-world impact, particularly in **medical diagnostics, robotics, and biomedical knowledge graphs**.
 
 ---
 
-## Experience  
+## **Technical Skills**
 
-### **Machine Learning Engineer**  
-**Aridian Technologies** | Dec 2024 – Present  
-- Built scalable ML solutions for healthcare (e.g., EMG-based prosthetics) and recruitment automation (ATS systems).  
-- Deployed **RAG-powered chatbots** for medical consultations and enterprise workflows.  
-- Optimized models for cloud (AWS/Azure) and edge devices (FPGA/NPU).  
-
-### **Data Analyst**  
-**Sparking Asia** | Apr 2024 – Dec 2024  
-- Analyzed business data to drive growth strategies and automate reporting pipelines.  
-
-### **Machine Learning Instructor**  
-**Ezitech Institute** | Aug 2024 – Dec 2024  
-- Trained 100+ students in AI/ML, focusing on healthcare and robotics applications.  
+* **Languages**: Python, C++, Java, PHP, JavaScript, SQL
+* **ML/DL**: PyTorch, TensorFlow, Scikit-learn, OpenCV, Hugging Face
+* **NLP/LLMs**: Transformers, LangChain, RAG, Multi-Agent Systems, Vector DBs
+* **Vision Models**: CNN, YOLO, Grad-CAM, ResNet, Swin Transformer
+* **Cloud & Deployment**: AWS, Azure, Docker, Kubernetes, FastAPI
+* **Other Tools**: Neo4j, Pandas, FAISS, Django, Flask
 
 ---
 
-## Key Projects  
+## **Professional Experience**
 
-### **EMG-Based Prosthetic Hand for Trans-Humeral Amputees**  
-*(IEEE-Published | [Paper Link](LINK))*  
-- **Role**: Second author | Developed CNN models to decode neural signals for real-time prosthetic control.  
-- **Impact**: 95% accuracy in gesture recognition, published in *IEEE Horizons of Information Technology and Engineering*.  
+### **Machine Learning Engineer**
 
-### **AI-Driven Knowledge Graph for Healthcare**  
-- Integrated symptoms, genetics, and treatment data to improve diagnostic accuracy (NLP + graph theory).  
+**Aridian Technologies** | Dec 2024 – Present
 
-### **Diabetic Retinopathy Detection**  
-- Built a **ResNet-Grad-CAM** pipeline for early-stage detection (98% accuracy).  
+* Developed EMG-based prosthetics using CNNs for gesture recognition.
+* Built LLM + RAG powered medical and HR chatbots.
+* Deployed ML systems on AWS Lambda and Azure Bedrock.
+* Led projects involving multi-modal AI, computer vision, and edge devices.
 
-### **BCI for Emotion Recognition**  
-- Designed an **EEG-based LSTM model** to classify emotions (89% F1-score).  
+### **Research Assistant – Neuroimaging Group**
 
-### **3D Umpire Review System**  
-- Binary image classification system for sports analytics using TensorFlow/Keras.  
+**Air University, Islamabad** | Sep 2024 – Mar 2025
 
----
+* Worked on BCI and Parkinson’s diagnosis using EEG/EMG data.
+* Collaborated on knowledge graph-based decision systems for medical AI.
 
-## Publications  
-1. **EMG-Based Control of Prosthetic Hand for Trans-Humeral Amputee**  
-   *IEEE Horizons of Information Technology and Engineering, 2024*  
-2. **Enhancing Diabetes Detection Using Optimal Feature Combination**  
-   *ICETECC’25 (Accepted)*  
+### **Data Analyst**
 
----
+**Sparking Asia** | Apr 2024 – Aug 2024
 
-## Education  
-**BS Computer Science**  
-*The Islamia University of Bahawalpur* | CGPA: 3.49/4  
-- Final Year Project: *Cricket Analysis and Prediction System (CAPS)* using CNNs and Random Forest.  
+* Built automated dashboards and conducted business analytics to inform strategy.
+
+### **Machine Learning Instructor**
+
+**Ezitech Institute** | Aug 2024 – Dec 2024
+
+* Trained over 100 students in ML, focusing on applications in healthcare and robotics.
 
 ---
 
-## Certifications  
-- **Deep Learning with TensorFlow** | IBM  
-- **Supervised Learning** | IBM  
-- **Data Science Crash Course** | PNY Trainings  
+## **Key Projects**
+
+### **🧠 EMG-Based Prosthetic Hand** *(IEEE Published)*
+
+* CNN model for real-time gesture decoding (95% accuracy).
+* [IEEE Publication](https://ieeexplore.ieee.org/document/10777219)
+
+### **🛰️ YOLO-Swin Hybrid for Aerial Object Detection** *(Accepted in PRJ)*
+
+* First author. Enhanced YOLO with Swin Transformer for small object detection.
+* [PRJ Link](https://theprj.org/index.php/1/article/view/705/718)
+
+### **🧬 Biomedical Knowledge Graph with NLP + Neo4j**
+
+* Merged multi-omics and disease data to aid diagnosis.
+
+### **🩺 Diabetic Retinopathy Detection with ResNet & Grad-CAM**
+
+* Built a vision model achieving 98% accuracy on retina scans.
+
+### **🧠 EEG-Based Emotion Recognition (BCI)**
+
+* Developed LSTM pipeline achieving 89% F1-score in classifying emotions.
+
+### **⚽ 3D Umpire Review System (CAPS)**
+
+* CNN & Random Forest-powered cricket analytics platform. Final Year Project.
 
 ---
 
-## Contributions  
-- **Community Dataset**: Shared a labeled dataset for [cricket runout detection].  
-- **Volunteer Work**: Organized blood drives and tech awareness campaigns.  
+## **Publications**
+
+1. **EMG-Based Control of Prosthetic Hand**
+   *IEEE Horizons of Information Technology and Engineering, 2024*
+2. **Enhancing Diabetes Detection Using Optimal Feature Combination**
+   *ICETECC’25 – Accepted*
+3. **YOLO-Swin Hybrid Model for Aerial Images**
+   *Policy Research Journal – Accepted*
 
 ---
 
-## Let’s Connect!  
-- **Email**: talhafareedi092@gmail.com  
-- **WhatsApp**: +92 321 9264550  
+## **Education**
 
-*"Advancing equitable AI solutions for healthcare and beyond."*  
+**BS Computer Science**
+*The Islamia University of Bahawalpur* | 2020 – 2024 | CGPA: 3.49/4.00
+
+* FYP: Cricket Analysis & Prediction System (CAPS) – CNN + Random Forest
+
+---
+
+## **Certifications**
+
+* Deep Learning with TensorFlow – *IBM*
+* Supervised Learning – *IBM*
+* Data Science Crash Course – *PNY Trainings*
+
+---
+
+## **Contributions & Activities**
+
+* **🏏 Kaggle Dataset**: [Cricket Runout Detection Dataset](https://www.kaggle.com/datasets/talhafareedi/cricket-runout-and-not-runout-images-dataset)
+* **🎤 Workshop Instructor**: Prompt Engineering @ JI Digital Works
+* **💉 Volunteer**: Blood donation at Victoria Hospital
+* **💻 Tech Awareness**: University outreach with Sparking Asia
+
+---
+
+## **Languages**
+
+* **English**: Proficient (IELTS 6.0)
+* **Urdu**: Native
+
+---
+
+## **Quote**
+
+*"Advancing equitable AI solutions for healthcare and beyond."*
+
