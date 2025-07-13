@@ -127,9 +127,4 @@ Innovative and driven AI engineer with deep expertise in **machine learning**, *
 * **English**: Proficient (IELTS 6.0)
 * **Urdu**: Native
 
----
-
-## **Quote**
-
-*"Advancing equitable AI solutions for healthcare and beyond."*
 
